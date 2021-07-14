@@ -13,7 +13,7 @@
 |hokyung-lee|✅||||||
 |kimminju|✅||||||
 |kyupid|✅||||||
-|narafu|✅||||||
+|narafu|✅|✅|||||
 |sablemarten|✅|✅|||||
 |uiurihappy|✅|✅|||||
 |Kyle-Wi|✅|✅|||||
