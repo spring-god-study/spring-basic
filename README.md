@@ -7,19 +7,29 @@
 
 |7월 3째주|월|화|수|목|금|주말|
 |------|---|---|---|---|---|---|
-|cxz5309|✅|✅|||||
-|dnjsrud3407|✅|✅|||||
+|cxz5309|✅|✅|✅||||
+|dnjsrud3407|✅|✅|✅||||
 |dowon-ahn|✅||||||
-|hokyung-lee|✅||||||
-|kimminju|✅||||||
-|kyupid|✅||||||
+|hokyung-lee|✅||✅||||
+|kimminju|✅||✅||||
+|kyupid|✅||✅||||
 |narafu|✅|✅|||||
-|sablemarten|✅|✅|||||
-|uiurihappy|✅|✅|||||
-|Kyle-Wi|✅|✅|||||
+|sablemarten|✅|✅|✅||||
+|uiurihappy|✅|✅|✅||||
+|Kyle-Wi|✅|✅|✅||||
 |juvelop17|||||||
 ---
 
+- [x] cxz5309
+- [x] dnjsrud3407
+- [ ] dowon-ahn
+- [x] hokyung-lee
+- [x] kimminju
+- [x] kyupid
+- [ ] narafu
+- [x] sablemarten
+- [x] uiurihappy
+- [x] Kyle-Wi
 
 ## Rule
 
