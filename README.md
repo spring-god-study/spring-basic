@@ -20,17 +20,6 @@
 |juvelop17|||||||
 ---
 
-- [x] cxz5309
-- [x] dnjsrud3407
-- [ ] dowon-ahn
-- [x] hokyung-lee
-- [x] kimminju
-- [x] kyupid
-- [ ] narafu
-- [x] sablemarten
-- [x] uiurihappy
-- [x] Kyle-Wi
-
 ## Rule
 
 0. 7월 12일부터 시작
