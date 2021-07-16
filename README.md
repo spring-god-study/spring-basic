@@ -7,16 +7,16 @@
 
 |7월 3째주|월|화|수|목|금|주말|
 |------|---|---|---|---|---|---|
-|cxz5309|✅|✅|✅||||
+|cxz5309|✅|✅|✅|✅|||
 |dnjsrud3407|✅|✅|✅||||
-|dowon-ahn|✅||||||
+|dowon-ahn|✅|||✅|||
 |hokyung-lee|✅||✅||||
-|kimminju|✅||✅||||
+|kimminju|✅||✅|✅|||
 |kyupid|✅||✅||||
 |narafu|✅|✅|||||
-|sablemarten|✅|✅|✅||||
+|sablemarten|✅|✅|✅|✅|||
 |uiurihappy|✅|✅|✅||||
-|Kyle-Wi|✅|✅|✅||||
+|Kyle-Wi|✅|✅|✅|✅|||
 |juvelop17|||||||
 ---
 
