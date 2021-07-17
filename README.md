@@ -8,16 +8,17 @@
 |7월 3째주|월|화|수|목|금|주말|
 |------|---|---|---|---|---|---|
 |cxz5309|✅|✅|✅|✅|||
-|dnjsrud3407|✅|✅|✅||||
+|dnjsrud3407|✅|✅|✅||✅||
 |dowon-ahn|✅|||✅|||
-|hokyung-lee|✅||✅||||
+|hokyung-lee|✅||✅||✅||
 |kimminju|✅||✅|✅|||
 |kyupid|✅||✅||||
 |narafu|✅|✅|||||
-|sablemarten|✅|✅|✅|✅|||
-|uiurihappy|✅|✅|✅||||
-|Kyle-Wi|✅|✅|✅|✅|||
-|juvelop17|||||||
+|sablemarten|✅|✅|✅|✅|✅||
+|uiurihappy|✅|✅|✅||✅||
+|Kyle-Wi|✅|✅|✅|✅|✅||
+|juvelop17|||||✅||
+
 ---
 
 ## Rule
