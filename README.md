@@ -15,7 +15,7 @@
 |narafu|✅||||||
 |sablemarten|✅||✅||||
 |uiurihappy|✅|✅|✅||||
-|Kyle-Wi||✅||✅|||
+|Kyle-Wi||✅||✅||||
 |juvelop17||✅|||||
 
 |7월 3째주|월|화|수|목|금|주말|
