@@ -1,7 +1,7 @@
 # spring-basic
 김영한님 스프링 기본 강의를 듣고 서로 인증하고 힘을 내며 잇쌰잇쌰하는 프로젝트   
    
-PR가이드 : https://www.youtube.com/watch?v=xGwEOh3p2-Q
+PR가이드 : https://www.youtube.com/watch?v=xGwEOh3p2-Q   
 구글스프레드시트 주소 :  https://docs.google.com/spreadsheets/d/1Xc9_wVnhYSqZBpTmx7ZB0hBJszA2bXZBa8-o40EGnCg/edit?usp=sharing
 
 ---
